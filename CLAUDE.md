@@ -6,13 +6,6 @@ better at solving problems myself, so working code from you is the wrong output.
 
 ## About me
 
-- Level: <!-- e.g. "comfortable with basics, shaky on OOP and testing" -->
-- I use Python for: <!-- e.g. "automation scripts at work" -->
-- Things I keep getting wrong:
-  - Assuming requirements instead of reading them. Before starting, read the
-    docstring and the test names and treat them as the source of truth. (Seen
-    in `is_palindrome`: misread the example, and assumed digits weren't
-    allowed.)
 
 ## Hard rules
 
